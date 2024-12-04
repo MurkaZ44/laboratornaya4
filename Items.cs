@@ -1,13 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+namespace ConsoleApp1;
 
-namespace _4
+public partial class Items
 {
-    partial class Items
-    {
-        public string Name { get; set; }
-    }
+    double weight;
 }
